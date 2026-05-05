@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pharmacy Order & Prescription Management System
 
 Production-shaped full-stack healthcare operations system.
@@ -38,3 +39,6 @@ Set `MONGODB_URI` when using Atlas or a non-default MongoDB instance:
 ```bash
 MONGODB_URI=mongodb://localhost:27017/pharma mvn spring-boot:run
 ```
+=======
+# Pharma
+>>>>>>> 8359cbb62a46ef247bbb2c729555d0592d91d8fc
